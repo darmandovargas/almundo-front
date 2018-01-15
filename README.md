@@ -1,6 +1,6 @@
 # AlmundoFront
 
-Al Mundo Front Test. Fue creado con Angular 5 aque lista hoteles y permite buscarlos a partir del servicio expuesto en NodeJS (https://github.com/darmandovargas/nodejs-hotels-rest-api).
+Al Mundo Front Test. It was created with Angular 5, it's a mock hotel list and search with responsive design, it works with a NodeJS service (https://github.com/darmandovargas/nodejs-hotels-rest-api).
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.4.
 
