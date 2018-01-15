@@ -1,0 +1,25 @@
+<h2 style="text-align:center">  Lista de Hoteles Disponibles</h2>
+<form (submit)="getHotelByName(search.value)" style="text-align:center !important;">
+  <input mat-input type="text"  (keyup)="getHotelByName(search.value)" id="search" placeholder="Buscar por nombre de hotel" #search size="100px">
+  <!-- 
+  <span class="highlight" style="text-align:center"></span>
+  <span class="bar" style="text-align:center"></span>
+  -->
+</form>
+
+<br><br>
+
+<ul style="text-align:center; margin: 0 5% 0 5%;">
+  <li *ngFor="let hotel of hotels" style="float:left; margin-left:20px;">
+    <h3>{{hotel.name}}</h3>
+    <img src="{{hotel.images}}" width="500px" height="256px" alt="Hotel Images" />
+    <div>
+    <p style="float:left; font-weight: bold;">Price: {{hotel.price}}</p>
+      <ul style="overflow: auto; float:left;">
+        <li *ngFor="let i of getNumber(hotel.stars)" style="float:left;"> 
+          <span><img src="../assets/img/star.png" width="30px"/></span>
+        </li> 
+      </ul>
+    </div>    
+  </li> 
+</ul>
