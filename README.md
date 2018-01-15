@@ -1,4 +1,4 @@
-# AlmundoFront
+# Almundo Front
 
 Al Mundo Front Test. It was created with Angular 5, it's a mock hotel list and search with responsive design, it works with a NodeJS service (https://github.com/darmandovargas/nodejs-hotels-rest-api).
 
