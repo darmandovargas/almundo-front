@@ -1,4 +1,6 @@
-![alt text](https://raw.githubusercontent.com/darmandovargas/almundo-front/master/Al%20Mundo%20Fron%20Test%20Sample%20Image%201.png)
+![alt text](https://raw.githubusercontent.com/darmandovargas/almundo-front/master/Al%20Mundo%20Front%20Test%20Sample%201.png)
+
+![alt text](https://raw.githubusercontent.com/darmandovargas/almundo-front/master/Al%20Mundo%20Fron%20Test%20Sample%2002.png)
 
 # Almundo Front
 
