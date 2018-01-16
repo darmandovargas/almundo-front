@@ -1,3 +1,5 @@
+![alt text](https://raw.githubusercontent.com/darmandovargas/almundo-front/master/Al%20Mundo%20Fron%20Test%20Sample%20Image%201.png)
+
 # Almundo Front
 
 Al Mundo Front Test. It was created with Angular 5, it's a mock hotel list and search with responsive design, it works with a NodeJS service (https://github.com/darmandovargas/nodejs-hotels-rest-api).
